@@ -4,6 +4,7 @@
 
 -------
 <p>Esse projeto é um <a href="https://github.com/0arKes/semana-frontend-mundo-invertido">fork desse Repositório</a>. COm algumas modificações e melhorias </p>
+<p><a href="https://0arkes.github.io/semana-frontend-mundo-invertido/">Clique aqui</a> Para visualizar o projeto</p>
 
 ## ▶️ Semana Front-end (Referência)
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
